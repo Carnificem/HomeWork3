@@ -88,7 +88,7 @@ public class Main {
                 float differenceYearDenis = (newDenisSalary * 12) - (denis * 12);
                 float differenceYearKristina = (newKristinaSalary * 12) - (kristina * 12 );
                 System.out.println("\nМария теперь получает " + newMariyaSalary + " рублей.Годовой доход вырос на " + differenceYearMariya +
-                        "\nДенис теперь получает " + newDenisSalary + " рублей.Годовой доход вырос на " + differenceYearDenis +
-                        "\nКристина теперь получает " + newKristinaSalary + "рублей.Годовой доход вырос на " + differenceYearKristina);
+                                   "\nДенис теперь получает " + newDenisSalary + " рублей.Годовой доход вырос на " + differenceYearDenis +
+                                   "\nКристина теперь получает " + newKristinaSalary + "рублей.Годовой доход вырос на " + differenceYearKristina);
     }
 }
